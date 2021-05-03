@@ -15,10 +15,7 @@ function Contact() {
         <div className="container">
           <div className="text-wrapper w-full">
             <h1 className="title">Contact</h1>
-            <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor.
-            </p>
+            <p className="description">Contact me for more information.</p>
             <ul className="contact-links">
               <li className="contact-item">Email: woeger.andrea@gmx.net</li>
               <li className="contact-item">Phone: -</li>
