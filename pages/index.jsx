@@ -24,7 +24,13 @@ function Home() {
             </Link>
           </div>
 
-          <div className="image-wrapper"></div>
+          <div className="image-wrapper">
+            <img
+              id="profilpicture"
+              src="/Profilbild.jpg"
+              alt="Profile Picture"
+            />
+          </div>
         </div>
       </section>
     </>
