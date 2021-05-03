@@ -18,7 +18,6 @@ function Contact() {
             <p className="description">Contact me for more information.</p>
             <ul className="contact-links">
               <li className="contact-item">Email: woeger.andrea@gmx.net</li>
-              <li className="contact-item">Phone: -</li>
             </ul>
           </div>
         </div>
