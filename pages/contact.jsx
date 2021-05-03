@@ -18,6 +18,12 @@ function Contact() {
             <p className="description">Contact me for more information.</p>
             <ul className="contact-links">
               <li className="contact-item">Email: woeger.andrea@gmx.net</li>
+              <li className="contact-item">
+                Linkedin:
+                <a href="https://at.linkedin.com/in/andrea-w%C3%B6ger-msc-546b18111">
+                  Andrea Wöger
+                </a>
+              </li>
             </ul>
           </div>
         </div>
