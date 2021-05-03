@@ -23,7 +23,7 @@ function Home() {
               <a className="cta">Contact Andrea</a>
             </Link>
           </div>
-          <img src="../public/Profilbild" alt="Profile Picture" />
+          /* Insert Profile Picture */
           <div className="image-wrapper"></div>
         </div>
       </section>
